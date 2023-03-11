@@ -1,16 +1,18 @@
-### Hi there 👋
+### Salve meus manos
 
-<!--
-**Pedryanx/Pedryanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_eai gente me chamo Pedro, sou Influencer digital,
+me sigam no instagram :_
+* @pedryanx
+ 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedryanx)
+* @ucrentao
+ 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ucrentao)
 
-Here are some ideas to get you started:
+*~~Informations :~~*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Jogador de Futebol :stadium: :soccer:
+* Streamer/Gamer :video_game: :dart:
+* Cursando Edificações e Programação :construction_worker_man: :man_technologist:
+* formaçao: Médio, e Departamento Pessoal :man_student: :man_health_worker:
+* Trabalhando atualmente na empresa SPDM :man_scientist: :syringe:
