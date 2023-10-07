@@ -1,18 +1,5 @@
-### Salve meus manos
+Olá pessoal, sou um programador front-end, meu trabalho envolve a criação e manutenção da parte visível de um site ou aplicativo. Eu sou responsável por tornar a experiência do usuário agradável, funcional e atraente. Isso significa que trabalho com tecnologias como HTML, CSS e JavaScript para projetar interfaces de usuário interativas e responsivas. Minha profissão é uma combinação de criatividade e lógica, pois preciso traduzir os projetos de design em código funcional e garantir que tudo funcione perfeitamente em diferentes navegadores e dispositivos. Além disso, estou constantemente acompanhando as tendências de design e as melhores práticas de desenvolvimento web para criar produtos digitais modernos e eficazes. Em resumo, sou o responsável por dar vida às ideias de design e garantir que os usuários tenham uma experiência incrível ao interagir com um site ou aplicativo.
 
-_eai gente me chamo Pedro, sou Influencer digital,
-me sigam no instagram :_
-* @pedryanx
- 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedryanx)
-* @ucrentao
- 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ucrentao)
 
-*~~Informations :~~*
 
-* Jogador de Futebol :stadium: :soccer:
-* Streamer/Gamer :video_game: :dart:
-* Cursando Edificações e Programação :construction_worker_man: :man_technologist:
-* formaçao: Médio, e Departamento Pessoal :man_student: :man_health_worker:
-* Trabalhando atualmente na empresa SPDM :man_scientist: :syringe:
+
